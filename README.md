@@ -2,7 +2,7 @@
 
     ⚠ This version is a proof of concept, for demonstration purpose only.
 
-AASS, AI Assisted Lamp. A new kind of table-top device with thousands of possibilities. Combine with augmented projection, deep computer vision, and machine learning technology. The system is modified from an Ikea lamp, consisting of a mini projector and OAK-D camera. Project an image of a computer graphic to any flat surface as a canvas. Enhance control with an AI hand gesture recognition with Google Mediapipe Hand Tracking models on [DepthAI](https://docs.luxonis.com/en/gen2/) stacks. Enabling any surface touch sensing with OAK-D spatial camera. As a fundamental framework, this projection lamp can be used in various ways. Not only for education but an endless possibility.
+AASS, AI Assisted Lamp. A new kind of table-top device with thousands of possibilities. Combine with augmented projection, deep computer vision, and machine learning technology. The system is modified from an Ikea lamp, consisting of a mini projector and [OAK-D](https://store.opencv.ai/products/oak-d) camera. Project an image of a computer graphic to any flat surface as a canvas. Enhance control with an AI hand gesture recognition with Google Mediapipe Hand Tracking models on [DepthAI](https://docs.luxonis.com/en/gen2/) stacks. Enabling any surface touch sensing with OAK-D spatial camera. As a fundamental framework, this projection lamp can be used in various ways. Not only for education but an endless possibility.
 
 ![System Overview](imgs/img_overview.jpg)
 
