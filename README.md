@@ -17,7 +17,7 @@ AASS, AI Assisted Lamp. A new kind of table-top device with thousands of possibi
 ## Hardware Setup
 We develop a prototype by designing a custom 3D printed mounting system. Replacing an original light blob with our hardware. Holding both OAK-D and a projector in place. Then connect a desktop computer with multi-display output to the system. The primary display is used for development and debugging. The secondary display is used for a projection display for the lamp. Feeding back a projected image and real-world objects with the OAK-D camera by pointing both it and the projector in-line to the projection surface.
 
-*A custom mounting system*
+*A custom mounting system*  
 ![mounting system](imgs/img_mount.jpg)
 
 ## Install dependencies
@@ -36,10 +36,10 @@ pip3 install -r requirements.txt
 python3 ./demo.py
 ```
 
-*A debug screenshot (top-left: camera input, top-right: depth,bot-left: warp img, bot-right: projected contents)*
+*A debug screenshot (top-left: camera input, top-right: depth,bot-left: warp img, bot-right: projected contents)*  
 ![Demonstration screenshot](imgs/img_debug.png)
 
-*A whole system setup*
+*A whole system setup*  
 ![Demonstration screenshot](imgs/img_setup.jpg)
 
 |Keypress|Function|
